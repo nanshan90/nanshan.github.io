@@ -20,5 +20,9 @@
     "hexo-toc": "^1.0.8",
     "lodash": "^4.17.21",
     "object-assign": "^4.1.1"
+  },
+  "scripts": {
+    "install-hexo": "npm install -g hexo-cli",
+    "build": "hexo generate"
   }
 }
