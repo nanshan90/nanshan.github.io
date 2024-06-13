@@ -3,7 +3,7 @@ name: Pages
 on:
   push:
     branches:
-      - master  # default branch
+      - nanshan_page  # default branch
 
 jobs:
   build:
